@@ -1,7 +1,7 @@
 ## 💻Mobile/Backend Developer🧑‍🎨
 
-💻 2nd Year Computer Science Student at USTHB
-📱 Mobile Developer | Proficient in React Native & Kotlin
+## 💻 2nd Year Computer Science Student at USTHB
+## 📱 Mobile Developer | Proficient in React Native & Kotlin
 🌐 Backend Enthusiast | Building scalable applications with Spring Boot
 🚀 Passionate about creating innovative solutions and contributing to open-source projects.
 
