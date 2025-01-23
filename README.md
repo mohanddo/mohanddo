@@ -1,5 +1,11 @@
 ## 💻Mobile/Backend Developer🧑‍🎨
 
+💻 2nd Year Computer Science Student at USTHB
+📱 Mobile Developer | Proficient in React Native & Kotlin
+🌐 Backend Enthusiast | Building scalable applications with Spring Boot
+🚀 Passionate about creating innovative solutions and contributing to open-source projects.
+
+
 <!--
 **mohanddo/mohanddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
