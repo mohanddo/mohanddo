@@ -2,7 +2,7 @@
 
 💻 I’m a 2nd-year Computer Science student at USTHB with a focus on mobile development using 📱 React Native and Kotlin, and backend development with 🌐 Spring Boot.
 
-✉️  You can contact me at mohandamokranemeghaoui2@gmail.com
+- ✉️  You can contact me at mohandamokranemeghaoui2@gmail.com
 
 <!--
 **mohanddo/mohanddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
