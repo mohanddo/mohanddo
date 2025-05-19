@@ -4,7 +4,7 @@ Hi 👋 My name is Meghaoui Mohand Amokrane
 Mobile/Backend Developer
 ------------------------
 
-💻 I’m a 3nd-year Computer Science student at USTHB with a focus on mobile development using 📱 React Native and Kotlin, and backend development with 🌐 Spring Boot.
+💻 I’m a 3rd-year Computer Science student at USTHB with a focus on mobile development using 📱 React Native and Kotlin, and backend development with 🌐 Spring Boot.
 
 * 🌍  I'm based in Algeria
 * ✉️  You can contact me at [mohandamokranemeghaoui2@gmail.com](mailto:mohandamokranemeghaoui2@gmail.com)
